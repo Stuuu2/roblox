@@ -1,0 +1,12 @@
+exploit: krnl 
+
+https://mboost.me/a/78q
+first script : type in the command
+commands:
+;fc
+;fcspeed 20
+
+https://mboost.me/a/78r
+execute this script in the car
+V button for speed car hack
+N button for car teleporter
